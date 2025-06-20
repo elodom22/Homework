@@ -1,6 +1,7 @@
 # Homework
-H.W. Assignments
+###This challenge focuses on using VBA scripting in Excel to analyze stock market data efficiently. Participants will write a script to loop through stock data for each quarter, calculating key metrics such as price changes, percentage fluctuations, and total stock volume. The script will also identify the stocks with the greatest percentage increase, decrease, and total volume. To enhance functionality, the script should run seamlessly across multiple worksheets, automating repetitive tasks. The goal is to develop programming skills while leveraging Excel’s capabilities for financial analysis.
 
+## Notes
 This repo holds the results for the Module 2 Challenge. The source code for the VBA script is located within the attached excel file (developer) and within the attached Notepad file.
 
 The follwing links were used to troubleshoot the following areas in the VBA code.
